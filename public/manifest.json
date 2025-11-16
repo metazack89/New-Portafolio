@@ -1,0 +1,16 @@
+{
+  "name": "Cristian Ortiz",
+  "short_name": "Portfolio",
+  "description": "Web developer with experience in frontend (JavaScript, React, CSS, responsive design) and backend using Node.js. Skilled with Express, PostgreSQL, Prisma, Docker, and JWT. I enjoy turning simple ideas into functional and scalable solutions.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#000",
+  "theme_color": "#000",
+  "icons": [
+    {
+      "src": "./favicon.ico",
+      "sizes": "50x50",
+      "type": "image/png"
+    }
+  ]
+}
