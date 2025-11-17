@@ -15,7 +15,6 @@ const MouseTracker = () => {
     renderer.setSize(window.innerWidth, window.innerHeight);
     renderer.setPixelRatio(window.devicePixelRatio);
 
-    // Crear partículas tipo "nebulosa"
     const particleCount = 1000;
     const geometry = new THREE.BufferGeometry();
     const positions = new Float32Array(particleCount * 3);
