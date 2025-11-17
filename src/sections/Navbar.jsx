@@ -76,7 +76,7 @@ const Navbar = () => {
 
       {isOpen && (
         <motion.div
-          className="block overflow-hidden text-center sm:hidden"
+          className="flex flex-col items-center justify-center overflow-hidden text-center sm:hidden pt-6"
           initial={{ opacity: 0, x: -10 }}
           animate={{ opacity: 1, x: 0 }}
           style={{ maxHeight: '100vh' }}
