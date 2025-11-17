@@ -109,17 +109,17 @@ export const myProjects = [
     tags: [
       {
         id: 1,
-        name: 'Blazor',
+        name: 'Next',
         path: '/assets/logos/nextjs.svg',
       },
       {
         id: 2,
-        name: '.NET Core',
+        name: 'Node',
         path: '/assets/logos/nodejs.svg',
       },
       {
         id: 3,
-        name: 'SQLite',
+        name: 'Mongo',
         path: '/assets/logos/mongo.svg',
       },
       {
